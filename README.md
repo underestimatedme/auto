@@ -1,2 +1,2 @@
 # auto
-Auto to some things
+Auto do some things
